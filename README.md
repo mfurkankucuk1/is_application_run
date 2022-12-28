@@ -33,3 +33,7 @@ fun isRunForegroundThisApplication(context: Context): Boolean {
         }
 ```
 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-furkan-kucuk-40897111a/)
+[![google](https://img.shields.io/badge/google-0A66C2?style=for-the-badge&logo=google&logoColor=orange)](https://g.dev/mfurkankck)
